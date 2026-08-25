@@ -2,8 +2,6 @@
 
 ## 1. Short Description / Purpose
 
-# Zomato Delivery Analysis – Power BI
-
 * Analyzed 45K+ Zomato delivery records using Power BI to identify key factors affecting delivery time.
 * Created an interactive dashboard covering traffic, weather, vehicle condition, festivals, city type, and assigned deliveries.
 * Developed KPIs for total orders, average delivery time, pickup duration, and delivery ratings.
