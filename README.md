@@ -23,9 +23,10 @@
 
 ## 4. Data Source
 
-Zomato delivery dataset containing information about delivery time, traffic, weather, vehicle condition, city type, festivals, pickup duration, delivery-person ratings, and multiple deliveries.
+The dataset was downloaded from Kaggle and contains information related to Zomato food deliveries, including delivery time, traffic, weather, vehicle condition, city type, festivals, pickup duration, delivery-person ratings, and multiple deliveries.
 - <a href="https://www.kaggle.com/datasets/saurabhbadole/zomato-delivery-operations-analytics-dataset/data">Raw Data Source</a>
 - <a href="https://github.com/dipeshpun286-sketch/Zomato-Delivery-Analysis-/blob/main/Zomato.pbix">PowerBI Dataset</a>
+
 
 ## 5. Features / Highlights
 
@@ -46,11 +47,22 @@ Zomato delivery dataset containing information about delivery time, traffic, wea
 * 📅 Analyzed **monthly average delivery time**.
 * 📈 Built an interactive dashboard with filters and visualizations.
 
-## 6. Dashboard
+
+## 6. Business Questions
+1* What is the average delivery time across all orders?
+How does traffic density affect average delivery time?
+How do different weather conditions affect delivery time?
+Does pickup duration contribute to overall delivery time?
+Which city types have the highest average delivery time?
+How does vehicle condition affect delivery time?
+Does the number of assigned deliveries affect delivery time?
+How does festival demand affect delivery time compared with non-festival periods?
+Is there a relationship between delivery-person rating and delivery time?
+How does average delivery time change month-over-month?
+
+
+## 7. Dashboard
 <img width="1152" height="647" alt="Screenshot 2026-08-25 225139" src="https://github.com/user-attachments/assets/0cf2b83d-2157-41ce-b3e4-b1ebbeb40fb7" />
-
-
-![Zomato Delivery Analysis Dashboard](Dashboard.png)
 
 **Key Insight:** Delivery time increases substantially as the number of assigned deliveries increases, while traffic, festivals, weather, and city type also show differences in delivery performance.
 ](https://github.com/dipeshpun286-sketch/Zomato-Delivery-Analysis-/blob/main/Zomato.pbix)
