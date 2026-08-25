@@ -1,55 +1,45 @@
 # Zomato Delivery Analysis – Power BI
 
-## 📊 Project Overview
+## 1. Project Title
 
-This project analyzes **45K+ Zomato delivery records** using Power BI to understand the factors affecting delivery time and overall delivery performance.
+**Zomato Delivery Analysis Dashboard**
 
-## 🎯 Business Questions
+## 2. Short Description / Purpose
 
-1. What is the **overall average delivery time**?
-2. How does **traffic density** affect delivery time?
-3. How does **weather condition** affect delivery time?
-4. Does **pickup duration** contribute to delivery time?
-5. Which **city types** have the highest average delivery time?
-6. How does **vehicle condition** affect delivery time?
-7. How does the **number of assigned deliveries** affect delivery time?
-8. Does **festival demand** affect delivery time?
-9. How does **delivery person rating** relate to delivery performance?
-10. How does **average delivery time change month-to-month**?
+An interactive Power BI dashboard analyzing **45K+ Zomato delivery records** to identify key factors affecting delivery time and delivery performance.
 
-## 📌 Key KPIs
-
-* **Total Orders:** 46K
-* **Average Delivery Time:** 26.29 minutes
-* **Average Pickup Duration:** 9 min 58 sec
-* **Average Delivery Rating:** 4.63 / 5
-
-## 🔍 Key Insights
-
-* Delivery time increases significantly as the number of assigned deliveries increases.
-* Festival orders have a considerably higher average delivery time than non-festival orders.
-* Jam traffic has the highest average delivery time among traffic conditions.
-* Semi-Urban locations show the highest average delivery time among city types.
-* Average delivery time shows a slight decline from February to April.
-
-## 🛠️ Tools & Skills
+## 3. Tech Stack
 
 * **Power BI**
-* **Power Query**
-* **DAX**
-* **Data Cleaning**
-* **Data Visualization**
-* **Business Analysis**
+* **Power Query** – Data cleaning and transformation
+* **DAX** – KPI and measure calculations
+* **Excel** – Source data preparation
 
-## 📁 Files
+## 4. Data Source
 
-* `Zomato.pbix` – Power BI dashboard file
-* `Dashboard.png` – Dashboard screenshot
+Zomato delivery dataset containing information about delivery time, traffic, weather, vehicle condition, city type, festivals, pickup duration, delivery-person ratings, and multiple deliveries.
 
-## 📷 Dashboard
+## 5. Features / Highlights
 
-![Zomato Delivery Dashboard](Dashboard.png)
+* 📌 **10 business questions** focused on delivery performance.
+* 📊 KPI cards for:
 
-## 👨‍💻 Author
+  * Total Orders: **46K**
+  * Average Delivery Time: **26.29 min**
+  * Average Pickup Duration: **9 min 58 sec**
+  * Average Delivery Rating: **4.63 / 5**
+* 🚦 Analyzed the impact of **traffic density** on delivery time.
+* 🌦️ Compared delivery time across **weather conditions**.
+* 🎉 Compared **festival vs. non-festival** delivery performance.
+* 🛵 Analyzed delivery time by **vehicle condition**.
+* 📦 Studied the impact of **number of assigned deliveries**.
+* 🏙️ Compared delivery performance across **city types**.
+* ⭐ Examined the relationship between **delivery time and delivery-person rating**.
+* 📅 Analyzed **monthly average delivery time**.
+* 📈 Built an interactive dashboard with filters and visualizations.
 
-**Dipesh Pun**
+## 6. Dashboard
+
+![Zomato Delivery Analysis Dashboard](Dashboard.png)
+
+**Key Insight:** Delivery time increases substantially as the number of assigned deliveries increases, while traffic, festivals, weather, and city type also show differences in delivery performance.
