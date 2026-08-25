@@ -1,4 +1,4 @@
-# Zomato Delivery Analysis
+[# Zomato Delivery Analysis
 
 ## 1. Project Title
 
@@ -47,7 +47,10 @@ Zomato delivery dataset containing information about delivery time, traffic, wea
 * 📈 Built an interactive dashboard with filters and visualizations.
 
 ## 6. Dashboard
+<img width="1152" height="647" alt="Screenshot 2026-08-25 225139" src="https://github.com/user-attachments/assets/0cf2b83d-2157-41ce-b3e4-b1ebbeb40fb7" />
+
 
 ![Zomato Delivery Analysis Dashboard](Dashboard.png)
 
 **Key Insight:** Delivery time increases substantially as the number of assigned deliveries increases, while traffic, festivals, weather, and city type also show differences in delivery performance.
+](https://github.com/dipeshpun286-sketch/Zomato-Delivery-Analysis-/blob/main/Zomato.pbix)
