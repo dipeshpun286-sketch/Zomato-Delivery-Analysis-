@@ -1,4 +1,4 @@
-# Zomato Delivery Analysis – Power BI
+# Zomato Delivery Analysis
 
 ## 1. Project Title
 
@@ -6,7 +6,13 @@
 
 ## 2. Short Description / Purpose
 
-An interactive Power BI dashboard analyzing **45K+ Zomato delivery records** to identify key factors affecting delivery time and delivery performance.
+# Zomato Delivery Analysis – Power BI
+
+* Analyzed 45K+ Zomato delivery records using Power BI to identify key factors affecting delivery time.
+* Created an interactive dashboard covering traffic, weather, vehicle condition, festivals, city type, and assigned deliveries.
+* Developed KPIs for total orders, average delivery time, pickup duration, and delivery ratings.
+* Identified trends and patterns to understand operational factors influencing delivery performance.
+* Built the project to demonstrate practical skills in **Power BI, data cleaning, visualization, and business analysis**.
 
 ## 3. Tech Stack
 
@@ -18,6 +24,8 @@ An interactive Power BI dashboard analyzing **45K+ Zomato delivery records** to 
 ## 4. Data Source
 
 Zomato delivery dataset containing information about delivery time, traffic, weather, vehicle condition, city type, festivals, pickup duration, delivery-person ratings, and multiple deliveries.
+- <a href="https://www.kaggle.com/datasets/saurabhbadole/zomato-delivery-operations-analytics-dataset/data">Raw Data Source</a>
+
 
 ## 5. Features / Highlights
 
