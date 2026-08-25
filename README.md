@@ -63,12 +63,12 @@ The dataset was downloaded from Kaggle and contains information related to Zomat
 ## 7. Process
 * Data Cleaning
 
-  *Handling missing/null values
-  *Checking invalid delivery-person ratings
-  *Checking outliers
-  *Cleaning inconsistent time values
-  *Validating delivery-time ranges
-  *Removing/handling invalid records
+  * Handling missing/null values
+  * Checking invalid delivery-person ratings
+  * Checking outliers
+  * Cleaning inconsistent time values
+  * Validating delivery-time ranges
+  * Removing/handling invalid records
 
 Analysis
 
