@@ -70,22 +70,22 @@ The dataset was downloaded from Kaggle and contains information related to Zomat
   * Validating delivery-time ranges
   * Removing/handling invalid records
 
-Analysis
+* Analysis
 
-Calculating average delivery time
-Comparing delivery time across traffic, weather, vehicle condition and festivals
-Comparing city types
-Studying assigned deliveries
-Examining pickup duration
-Studying delivery-person ratings
-Analyzing monthly trends
+  * Calculating average delivery time
+  * Comparing delivery time across traffic, weather, vehicle condition and festivals
+  * Comparing city types   
+  * Studying assigned deliveries
+  * Examining pickup duration
+  * Studying delivery-person ratings
+  * Analyzing monthly trends
 
-Dashboard
+* Dashboard
 
-4 KPI cards
-8 analytical visuals
-Business-focused insights
-Interactive Power BI visualization
+  * 4 KPI cards
+  * 8 analytical visuals
+  * Business-focused insights
+  * Interactive Power BI visualization
 
   
 ## 7. Dashboard
