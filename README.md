@@ -60,6 +60,33 @@ The dataset was downloaded from Kaggle and contains information related to Zomat
 * How does average delivery time change across the analyzed months?
 * What is the relationship between delivery-person rating and delivery time?
 
+##7. Process
+Data Cleaning
+
+Handling missing/null values
+Checking invalid delivery-person ratings
+Checking outliers
+Cleaning inconsistent time values
+Validating delivery-time ranges
+Removing/handling invalid records
+
+Analysis
+
+Calculating average delivery time
+Comparing delivery time across traffic, weather, vehicle condition and festivals
+Comparing city types
+Studying assigned deliveries
+Examining pickup duration
+Studying delivery-person ratings
+Analyzing monthly trends
+
+Dashboard
+
+4 KPI cards
+8 analytical visuals
+Business-focused insights
+Interactive Power BI visualization
+
   
 ## 7. Dashboard
 <img width="1152" height="647" alt="Screenshot 2026-08-25 225139" src="https://github.com/user-attachments/assets/0cf2b83d-2157-41ce-b3e4-b1ebbeb40fb7" />
