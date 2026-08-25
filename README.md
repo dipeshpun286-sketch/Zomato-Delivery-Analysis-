@@ -49,16 +49,16 @@ The dataset was downloaded from Kaggle and contains information related to Zomat
 
 
 ## 6. Business Questions
-1* What is the average delivery time across all orders?
-How does traffic density affect average delivery time?
-How do different weather conditions affect delivery time?
-Does pickup duration contribute to overall delivery time?
-Which city types have the highest average delivery time?
-How does vehicle condition affect delivery time?
-Does the number of assigned deliveries affect delivery time?
-How does festival demand affect delivery time compared with non-festival periods?
-Is there a relationship between delivery-person rating and delivery time?
-How does average delivery time change month-over-month?
+*1 What is the average delivery time across all orders?
+*How does traffic density affect average delivery time?
+*How do different weather conditions affect delivery time?
+*Does pickup duration contribute to overall delivery time?
+*Which city types have the highest average delivery time?
+*How does vehicle condition affect delivery time?
+*Does the number of assigned deliveries affect delivery time?
+*How does festival demand affect delivery time compared with non-festival periods?
+*Is there a relationship between delivery-person rating and delivery time?
+*How does average delivery time change month-over-month?
 
 
 ## 7. Dashboard
