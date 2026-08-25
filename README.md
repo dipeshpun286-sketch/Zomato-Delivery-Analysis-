@@ -1,10 +1,6 @@
-[# Zomato Delivery Analysis
+#Zomato Delivery Analysis
 
-## 1. Project Title
-
-**Zomato Delivery Analysis Dashboard**
-
-## 2. Short Description / Purpose
+## 1. Short Description / Purpose
 
 # Zomato Delivery Analysis – Power BI
 
@@ -14,21 +10,21 @@
 * Identified trends and patterns to understand operational factors influencing delivery performance.
 * Built the project to demonstrate practical skills in **Power BI, data cleaning, visualization, and business analysis**.
 
-## 3. Tech Stack
+## 2. Tech Stack
 
 * **Power BI**
 * **Power Query** – Data cleaning and transformation
 * **DAX** – KPI and measure calculations
 * **Excel** – Source data preparation
 
-## 4. Data Source
+## 3. Data Source
 
 The dataset was downloaded from Kaggle and contains information related to Zomato food deliveries, including delivery time, traffic, weather, vehicle condition, city type, festivals, pickup duration, delivery-person ratings, and multiple deliveries.
 - <a href="https://www.kaggle.com/datasets/saurabhbadole/zomato-delivery-operations-analytics-dataset/data">Raw Data Source</a>
 - <a href="https://github.com/dipeshpun286-sketch/Zomato-Delivery-Analysis-/blob/main/Zomato.pbix">PowerBI Dataset</a>
 
 
-## 5. Features / Highlights
+## 4. Features / Highlights
 
 * 📌 **10 business questions** focused on delivery performance.
 * 📊 KPI cards for:
@@ -48,7 +44,7 @@ The dataset was downloaded from Kaggle and contains information related to Zomat
 * 📈 Built an interactive dashboard with filters and visualizations.
 
 
-## 6. Business Questions
+## 5. Business Questions
 * What is the total number of orders and the overall average delivery time?
 * What is the average delivery-person rating and average pickup duration?
 * How does vehicle condition affect average delivery time?
@@ -60,7 +56,7 @@ The dataset was downloaded from Kaggle and contains information related to Zomat
 * How does average delivery time change across the analyzed months?
 * What is the relationship between delivery-person rating and delivery time?
 
-## 7. Process
+## 6. Process
 * Data Cleaning
 
   * Handling missing/null values
