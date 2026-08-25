@@ -49,20 +49,24 @@ The dataset was downloaded from Kaggle and contains information related to Zomat
 
 
 ## 6. Business Questions
-*1 What is the average delivery time across all orders?
-*How does traffic density affect average delivery time?
-*How do different weather conditions affect delivery time?
-*Does pickup duration contribute to overall delivery time?
-*Which city types have the highest average delivery time?
-*How does vehicle condition affect delivery time?
-*Does the number of assigned deliveries affect delivery time?
-*How does festival demand affect delivery time compared with non-festival periods?
-*Is there a relationship between delivery-person rating and delivery time?
-*How does average delivery time change month-over-month?
+* What is the total number of orders and the overall average delivery time?
+* What is the average delivery-person rating and average pickup duration?
+* How does vehicle condition affect average delivery time?
+* How do different weather conditions affect average delivery time?
+* How does traffic density affect average delivery time?
+* Does festival demand affect average delivery time compared with non-festival orders?
+* Which city type has the highest average delivery time?
+* How does the number of assigned deliveries affect average delivery time?
+* How does average delivery time change across the analyzed months?
+* What is the relationship between delivery-person rating and delivery time?
 
-
+  
 ## 7. Dashboard
 <img width="1152" height="647" alt="Screenshot 2026-08-25 225139" src="https://github.com/user-attachments/assets/0cf2b83d-2157-41ce-b3e4-b1ebbeb40fb7" />
 
-**Key Insight:** Delivery time increases substantially as the number of assigned deliveries increases, while traffic, festivals, weather, and city type also show differences in delivery performance.
-](https://github.com/dipeshpun286-sketch/Zomato-Delivery-Analysis-/blob/main/Zomato.pbix)
+**Key Insight:**
+* Delivery time increases substantially as the number of assigned deliveries increases.
+* Festival orders have considerably higher average delivery times than non-festival orders.
+* Higher traffic congestion is associated with longer delivery times.
+* Semi-Urban areas have the highest average delivery time among the analyzed city types.
+* Average delivery time shows a slight decline during the analyzed months.
